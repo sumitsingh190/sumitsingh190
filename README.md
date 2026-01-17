@@ -55,17 +55,12 @@
 ### 🏙️ Multi-Agent Smart City Simulation
 - Multi-agent simulation environment for smart city operations  
 - Tech: Python, Agents, ML  
-- Repo: **YOUR_REPO_LINK_1**
+- Repo: **https://github.com/sumitsingh190/Multi-Agent-Smart-City-Simulation.git**
 
 ### 🛡️ CrowdShield AI
 - AI-based crowd monitoring & anomaly detection  
 - Tech: Python, Computer Vision, ML  
-- Repo: **YOUR_REPO_LINK_2**
-
-### 📚 Smart Library Management System
-- Library automation with student-friendly dashboard  
-- Tech: React, Node.js, MongoDB  
-- Repo: **YOUR_REPO_LINK_3**
+- Repo: **https://github.com/sumitsingh190/Crowd-Shield-AI.git**
 
 ---
 
