@@ -88,14 +88,6 @@ I enjoy designing scalable AI applications that combine intelligent reasoning wi
 
 ---
 
-# 🏆 Certifications
-
-- Oracle Generative AI Certified
-- Google AI Essentials
-- AWS Cloud Job Simulation (Forage)
-
----
-
 # 📫 Connect With Me
 
 📧 **Email:** achievingprinceraj@gmail.com
