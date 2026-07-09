@@ -1,72 +1,196 @@
 <h1 align="center">Hi 👋, I'm Sumit Prakash</h1>
-<h3 align="center">Data Scientist | Machine Learning | Agentic AI | Full Stack Developer</h3>
+<h3 align="center">
+AI Engineer | Agentic AI | LLMs | RAG | FastAPI | React | Building Production-Ready AI Systems
+</h3>
 
 <p align="center">
   <a href="mailto:achievingprinceraj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-achievingprinceraj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-achievingprinceraj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <!-- Replace YOUR_LINKEDIN with your linkedin link -->
-  <a href="YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/sumitprakash13/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sumit%20Prakash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://github.com/sumitsingh190" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-sumitsingh190-111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-sumitsingh190-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumitsingh190&label=Profile%20Views&color=0e75b6&style=flat" alt="sumitsingh190" />
+<img src="https://komarev.com/ghpvc/?username=sumitsingh190&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 BE in Information Science & Engineering (CMR Institute of Technology, Bengaluru)
-- 🔭 Working on **AI + ML + Multi-Agent Systems**
-- 🌱 Currently learning **LangChain, LLM Agents, Generative AI**
-- 💬 Ask me about **Python, SQL, ML, FastAPI, React**
-- 📫 Reach me at **achievingprinceraj@gmail.com**
+# 🚀 About Me
+
+💡 AI Engineer passionate about building intelligent products using **LLMs, Agentic AI, Multi-Agent Systems, RAG, and Full-Stack Development**.
+
+Currently working on scalable enterprise AI applications involving:
+
+- 🤖 Agentic AI Systems
+- 🧠 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚡ LangGraph & LangChain
+- 🚀 FastAPI Backends
+- 🌐 React Applications
+- ☁️ Cloud-native AI Systems
 
 ---
 
-## 🧰 Tech Stack
+# 💼 Experience
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=white)
+### System Engineer @ Infosys
 
-### ⚙️ Frameworks & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=white)
+- Built production-ready Document AI solutions
+- Developed scalable FastAPI microservices
+- Worked with Azure OpenAI & GPT-4o
+- Built asynchronous backend architectures
+- Improved AI extraction accuracy from **91% → 98%**
+- Processed **1500+ documents/hour**
+- Reduced manual work by **40+ hours/week**
 
 ---
 
-## 📌 Featured Projects
-> Replace repo links with your actual repo URLs
+# 🛠 Tech Stack
 
-### 🏙️ Multi-Agent Smart City Simulation
-- Multi-agent simulation environment for smart city operations  
-- Tech: Python, Agents, ML  
-- Repo: **https://github.com/sumitsingh190/Multi-Agent-Smart-City-Simulation.git**
+## Languages
 
-### 🛡️ CrowdShield AI
-- AI-based crowd monitoring & anomaly detection  
-- Tech: Python, Computer Vision, ML  
-- Repo: **https://github.com/sumitsingh190/Crowd-Shield-AI.git**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🤝 Let's Connect
-- 📧 Email: **achievingprinceraj@gmail.com**
-- 💼 LinkedIn: **www.linkedin.com/in/sumitprakash13**
+## AI / Machine Learning
+
+![LangChain](https://img.shields.io/badge/LangChain-111?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-111?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FastMCP](https://img.shields.io/badge/FastMCP-111?style=for-the-badge)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
 
 ---
-⭐ If you like my work, consider following me!
+
+## Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+
+---
+
+## Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 ProductOS AI
+
+Enterprise-grade AI platform powered by LangGraph and Multi-Agent Systems.
+
+### Highlights
+
+- Multi-Agent AI Architecture
+- LangGraph Orchestration
+- MCP Server (17 Business Tools)
+- Groq Llama 3.3 70B
+- JWT Authentication
+- FastAPI + React
+- Streaming Responses
+
+🔗 Repository
+
+https://github.com/sumitsingh190/Product-Intelligence
+
+---
+
+## 👥 CrowdShield AI
+
+Real-time AI Crowd Monitoring & Risk Detection System.
+
+### Highlights
+
+- YOLOv8
+- OpenCV
+- FastAPI
+- React Dashboard
+- WebSocket Streaming
+- Automated Incident Reports
+- Crowd Density Analytics
+
+🔗 Repository
+
+https://github.com/sumitsingh190/Crowd-Shield-AI
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumitsingh190&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsingh190&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsingh190&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 Certifications
+
+- Oracle Generative AI Certified
+- Google AI Essentials
+- AWS Cloud Job Simulation (Forage)
+
+---
+
+# 📫 Connect With Me
+
+📧 Email
+
+**achievingprinceraj@gmail.com**
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/sumitprakash13/
+
+🐙 GitHub
+
+https://github.com/sumitsingh190
+
+---
+
+> *"Building AI systems that don't just answer questions—they take actions."* 🚀
